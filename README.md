@@ -1,3 +1,7 @@
+# Authentication - Back-end
+
+Simple boilerplate for authentication with react, redux, redux-saga, node, express and mongodb
+
 For front-end please check here
 https://github.com/oikantik/react-redux-jwt-authentication/
 
